@@ -2,7 +2,6 @@ import {
   ButtonContainer,
   ButtonPrimary,
   InfoDivContainer,
-  LogoContainer,
   Subtitle,
   Title,
 } from "../../styles/global";
